@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\201005-ISHomework\ISHomework\ISRepository\bin\Debug\netcoreapp3.1\ISRepository.deps.json
+C:\Users\PC\Desktop\201005-ISHomework\ISHomework\ISRepository\bin\Debug\netcoreapp3.1\ISRepository.runtimeconfig.json
+C:\Users\PC\Desktop\201005-ISHomework\ISHomework\ISRepository\bin\Debug\netcoreapp3.1\ISRepository.runtimeconfig.dev.json
+C:\Users\PC\Desktop\201005-ISHomework\ISHomework\ISRepository\bin\Debug\netcoreapp3.1\ISRepository.dll
+C:\Users\PC\Desktop\201005-ISHomework\ISHomework\ISRepository\bin\Debug\netcoreapp3.1\ISRepository.pdb
+C:\Users\PC\Desktop\201005-ISHomework\ISHomework\ISRepository\bin\Debug\netcoreapp3.1\ISDomain.dll
+C:\Users\PC\Desktop\201005-ISHomework\ISHomework\ISRepository\bin\Debug\netcoreapp3.1\ISDomain.pdb
+C:\Users\PC\Desktop\201005-ISHomework\ISHomework\ISRepository\obj\Debug\netcoreapp3.1\ISRepository.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\201005-ISHomework\ISHomework\ISRepository\obj\Debug\netcoreapp3.1\ISRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\201005-ISHomework\ISHomework\ISRepository\obj\Debug\netcoreapp3.1\ISRepository.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\201005-ISHomework\ISHomework\ISRepository\obj\Debug\netcoreapp3.1\ISRepository.AssemblyInfo.cs
+C:\Users\PC\Desktop\201005-ISHomework\ISHomework\ISRepository\obj\Debug\netcoreapp3.1\ISRepository.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\201005-ISHomework\ISHomework\ISRepository\obj\Debug\netcoreapp3.1\ISRepository.csproj.CopyComplete
+C:\Users\PC\Desktop\201005-ISHomework\ISHomework\ISRepository\obj\Debug\netcoreapp3.1\ISRepository.dll
+C:\Users\PC\Desktop\201005-ISHomework\ISHomework\ISRepository\obj\Debug\netcoreapp3.1\ISRepository.pdb
+C:\Users\PC\Desktop\201005-ISHomework\ISHomework\ISRepository\obj\Debug\netcoreapp3.1\ISRepository.genruntimeconfig.cache

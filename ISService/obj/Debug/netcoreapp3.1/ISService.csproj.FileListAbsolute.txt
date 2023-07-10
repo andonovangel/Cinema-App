@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\201005-ISHomework\ISHomework\ISService\bin\Debug\netcoreapp3.1\ISService.deps.json
+C:\Users\PC\Desktop\201005-ISHomework\ISHomework\ISService\bin\Debug\netcoreapp3.1\ISService.dll
+C:\Users\PC\Desktop\201005-ISHomework\ISHomework\ISService\bin\Debug\netcoreapp3.1\ISService.pdb
+C:\Users\PC\Desktop\201005-ISHomework\ISHomework\ISService\bin\Debug\netcoreapp3.1\ISDomain.dll
+C:\Users\PC\Desktop\201005-ISHomework\ISHomework\ISService\bin\Debug\netcoreapp3.1\ISRepository.dll
+C:\Users\PC\Desktop\201005-ISHomework\ISHomework\ISService\bin\Debug\netcoreapp3.1\ISRepository.pdb
+C:\Users\PC\Desktop\201005-ISHomework\ISHomework\ISService\bin\Debug\netcoreapp3.1\ISDomain.pdb
+C:\Users\PC\Desktop\201005-ISHomework\ISHomework\ISService\obj\Debug\netcoreapp3.1\ISService.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\201005-ISHomework\ISHomework\ISService\obj\Debug\netcoreapp3.1\ISService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\201005-ISHomework\ISHomework\ISService\obj\Debug\netcoreapp3.1\ISService.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\201005-ISHomework\ISHomework\ISService\obj\Debug\netcoreapp3.1\ISService.AssemblyInfo.cs
+C:\Users\PC\Desktop\201005-ISHomework\ISHomework\ISService\obj\Debug\netcoreapp3.1\ISService.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\201005-ISHomework\ISHomework\ISService\obj\Debug\netcoreapp3.1\ISService.csproj.CopyComplete
+C:\Users\PC\Desktop\201005-ISHomework\ISHomework\ISService\obj\Debug\netcoreapp3.1\ISService.dll
+C:\Users\PC\Desktop\201005-ISHomework\ISHomework\ISService\obj\Debug\netcoreapp3.1\ISService.pdb
